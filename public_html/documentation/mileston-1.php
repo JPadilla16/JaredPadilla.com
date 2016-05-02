@@ -9,7 +9,7 @@
 			<h1>Jared Padilla</h1>
 		</header>
 		<main>
-			<p><h3>Purpose, Audience, and Goal</h3>
+			<h3>Purpose, Audience, and Goal</h3>
 
 			<p>Purpose: This Project is professional portfolio with a focus on web development.</p>
 
