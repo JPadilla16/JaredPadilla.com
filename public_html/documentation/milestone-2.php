@@ -33,13 +33,13 @@
 				<li>Content Page Layout</li>
 			</ul>
 			<p>Home Page Layout Desktop</p>
-			<img src="images/Home_Page_Layout_Desktop.svg" alt="Home Page Layout Desktop" />
+			<img src="images/Home_Page_Layout_Desktop.svg" alt="Home Page Layout Desktop" width="50%" height="50%"/>
 			<p>Content Page Layout Desktop</p>
-			<img src="images/Content_Page_Layout_Desktop.svg" alt="Content Page Layout Desktop" />
+			<img src="images/Content_Page_Layout_Desktop.svg" alt="Content Page Layout Desktop" width="50%" height="50%"/>
 			<p>Home Page Layout Mobile</p>
-			<img src="images/Home_Page_Layout_Mobile.svg" alt="Home Page Layout Mobile" />
+			<img src="images/Home_Page_Layout_Mobile.svg" alt="Home Page Layout Mobile" width="50%" height="50%"/>
 			<p>Content Page Layout Mobile</p>
-			<img src="images/Content_Page_Layout_Mobile.svg" alt="Content Page Layout Mobile">
+			<img src="images/Content_Page_Layout_Mobile.svg" alt="Content Page Layout Mobile" width="50%" height="50%"/>
 		</main>
 		<footer>
 			<div>&copy; 2016 JaredPadilla </div>
