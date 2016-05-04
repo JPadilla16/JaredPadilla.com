@@ -26,3 +26,13 @@ We will be discussing Milestone 2&alpha; in the weeks to come, so hold off on fu
   <h3>Persona</h3>
 </main>
 ```
+## Milestone 2a Feedback
+This is good work. Your site map, content strategy are all clearly outlined, but **your Interation Flow is missing**.
+
+Your wireframes are well done and sufficiently detailed as to provide you with a guide for your front end development phase. Your HTML looks very good.
+
+Because your Interaction Flow in missing, I can only mark this Milestone 2&alpha; at [Tier I](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). You are clear to begin development on your PWP. Update this document with an Interaction Flow and I will pass this Milestone at Tier II.
+
+### Edits &amp; Suggestions
+- Consider combining your About Me and Contact pages. Unless you are planning to feature enough content to necessitate having two separate pages (unlikely).
+- Think a bit about how you would like to feature and present your portfolio content, specifically. Of course this will depend on what kind of content you plan on featuring. This will inform your HTML structure for this section, and if any 3rd party tools might be appropriate.
