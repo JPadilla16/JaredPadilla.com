@@ -37,9 +37,9 @@
 			<p>Content Page Layout Desktop</p>
 			<img src="images/Content_Page_Layout_Desktop.svg" alt="Content Page Layout Desktop" width="50%" height="50%"/>
 			<p>Home Page Layout Mobile</p>
-			<img src="images/Home_Page_Layout_Mobile.svg" alt="Home Page Layout Mobile" width="50%" height="50%"/>
+			<img src="images/Home_Page_Layout_Mobile.svg" alt="Home Page Layout Mobile" width="25%" height="25%"/>
 			<p>Content Page Layout Mobile</p>
-			<img src="images/Content_Page_Layout_Mobile.svg" alt="Content Page Layout Mobile" width="50%" height="50%"/>
+			<img src="images/Content_Page_Layout_Mobile.svg" alt="Content Page Layout Mobile" width="25%" height="25%"/>
 		</main>
 		<footer>
 			<div>&copy; 2016 JaredPadilla </div>

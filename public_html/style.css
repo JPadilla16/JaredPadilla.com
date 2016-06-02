@@ -1,0 +1,50 @@
+/* utilities */
+.p-y-4 {
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
+/* header */
+header {
+	background: #252525;
+}
+
+/*background image*/
+body {
+	background-image: url(images/nmcarlsbad.jpg);
+	background-size: cover;
+}
+
+/* footer */
+footer {
+	background: #252525;
+	color: #868681;
+}
+
+.navbar .navbar-nav {
+	display: inline-block;
+	float: none;
+}
+
+.navbar .navbar-collapse {
+	text-align: center;
+}
+
+/***
+* Flexbox Sticky Footer
+* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+***/
+
+/*corrects IE min-height bug*/
+html { display: flex;}
+body { width: 100%;}
+
+.sfooter {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.sfooter-content {
+	flex: 1 0 auto;
+}
