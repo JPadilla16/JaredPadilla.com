@@ -21,16 +21,13 @@ footer {
 	color: #868681;
 }
 
-​
-@media only screen and (min-width: 992px) {
-	.navbar .navbar-nav {
-		display: inline-block;
-		float: none;
-	}
-	​
-	.navbar .navbar-collapse {
-		text-align: center;
-	}
+.navbar .navbar-nav {
+	display: inline-block;
+	float: none;
+}
+
+.navbar .navbar-collapse {
+	text-align: center;
 }
 
 /***

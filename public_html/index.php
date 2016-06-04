@@ -30,7 +30,7 @@ require_once("php/partials/headutils.php");
 								<li><a href="#">Portfolio</a></li>
 								<li><a href="#">Contact</a></li>
 							</ul>
-							<ul class="nav navbar-nav navbar-right">
+							<ul class="nav navbar-nav navbar-right hidden-xs">
 								<li><a href="https://github.com/JPadilla16" target="_blank"><i class="fa fa-github fa-2x" aria-hidden="true"></i>
 									</a></li>
 								<li><a href="#"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i>
