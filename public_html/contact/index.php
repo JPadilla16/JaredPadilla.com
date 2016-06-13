@@ -32,11 +32,10 @@ require_once(dirname(__DIR__)."/php/partials/headutils.php");
 							<li class="active"><a href="https://bootcamp-coders.cnm.edu/~jmedley4/jaredpadilla/public_html/contact/index.php">Contact <span class="sr-only">(current)</span></a></li>
 						</ul>
 						<ul class="nav navbar-nav navbar-right hidden-xs">
-							<li><a href="https://github.com/JPadilla16" target="_blank"><i class="fa fa-github fa-2x"
-																												aria-hidden="true"></i></a></li>
+							<li><a href="https://github.com/JPadilla16" target="_blank"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a></li>
 							<li><a href="#" target="_blank"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i>
 								</a></li>
-							<li><a href="#" target="_blank"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i>
+							<li><a href="https://www.linkedin.com/in/jaredrpadilla" target="_blank"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i>
 								</a></li>
 						</ul>
 					</div><!-- /.navbar-collapse -->
@@ -55,8 +54,8 @@ require_once(dirname(__DIR__)."/php/partials/headutils.php");
 
 							<ul class="fa-ul">
 								<li><a class="list-group-item" href="#" target="_blank"><i class="fa fa-twitter fa-3x" aria-hidden="true"></i>&nbsp; Follow me on Twitter</a></li>
-								<li><a class="list-group-item" href="#" target="_blank"><i class="fa fa-linkedin fa-3x" aria-hidden="true"></i>&nbsp; Connect on LinkedIn</a></li>
-								<li><a class="list-group-item" href="#" target="_blank"><i class="fa fa-github fa-3x" aria-hidden="true"></i>&nbsp; Follow me on GitHub</a></li>
+								<li><a class="list-group-item" href="https://www.linkedin.com/in/jaredrpadilla" target="_blank"><i class="fa fa-linkedin fa-3x" aria-hidden="true"></i>&nbsp; Connect on LinkedIn</a></li>
+								<li><a class="list-group-item" href="https://github.com/JPadilla16" target="_blank"><i class="fa fa-github fa-3x" aria-hidden="true"></i>&nbsp; Follow me on GitHub</a></li>
 							</ul>
 
 <!--							<div class="list-group">-->
@@ -133,25 +132,9 @@ require_once(dirname(__DIR__)."/php/partials/headutils.php");
 		<!--Page content Here.-->
 	</div>
 
-	<footer class="p-y-4">
-		<div class="container">
-			<div class="row">
-				<div class="col-xs-6">
-					<div class="copyright text-left">
-						&copy; 2016 Jared Padilla
-					</div>
-				</div>
-				<div class="col-xs-6">
-					<div class="social pull-right hidden-lg hidden-md hidden-sm">
+	<!-- insert footer -->
+	<?php require_once(dirname(__DIR__)."/php/partials/footer.php");?>
 
-						<a href="https://github.com/JPadilla16" target="_blank"><i class="fa fa-github fa-2x"
-																									  aria-hidden="true"></i></a>
-						<a href="#"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a>
-						<a href="#"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</footer>
+
 </body>
 </html>

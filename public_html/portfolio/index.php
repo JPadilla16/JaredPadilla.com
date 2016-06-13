@@ -34,7 +34,7 @@ require_once(dirname(__DIR__)."/php/partials/headutils.php");
 							<li><a href="https://github.com/JPadilla16" target="_blank"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a></li>
 							<li><a href="#"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i>
 								</a></li>
-							<li><a href="#"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i>
+							<li><a href="https://www.linkedin.com/in/jaredrpadilla"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i>
 								</a></li>
 						</ul>
 					</div><!-- /.navbar-collapse -->
@@ -42,36 +42,35 @@ require_once(dirname(__DIR__)."/php/partials/headutils.php");
 			</nav>
 		</header>
 		<!--Secion of Welcoming-->
-		<section id="welcome" class="p-y-4">
-			<div class="container">
-				<div class="jumbotron">
-					<h1>Portfolio</h1>
-					<p>in progress</p>
-				</div>
-			</div>
-		</section>
-		<!--Page content Here.-->
-	</div>
-
-	<footer class="p-y-4">
 		<div class="container">
 			<div class="row">
-				<div class="col-xs-6">
-					<div class="copyright text-left">
-						&copy; 2016 Jared Padilla
+				<div class="jumbotron text-center">
+					<h1>My Work!</h1>
+				</div> <!-- jumbotron end -->
+			</div> <!-- row end -->
+			<!-- container end -->
+			<!--		</section>-->
+			<!--Page content Here.-->
+			<div class="row">
+				<div class="col-md-6">
+					<div class="well text-center">
+						<img class="img-responsive" src="../images/baseballClose.jpg" alt="Baseball">
 					</div>
 				</div>
-				<div class="col-xs-6">
-					<div class="social pull-right hidden-lg hidden-md hidden-sm">
+				<div class="col-md-6">
+					<div class="well text-center">
+						<p>Baseball ipsum dolor sit amet losses plunked sacrifice tapper pinch runner balk. Sidearm slider fielder's choice basehit stretch foul line red sox cardinals hardball. Triple-A 4-6-3 ground rule double loss fastball sabremetrics knuckle inside. Baseball small ball corner leather astroturf yankees passed ball slide. Defensive indifference perfect game shift passed ball dodgers, cup of coffee bases loaded loss. Knuckleball slugging ejection series off-speed peanuts relief pitcher fenway blue.
+						</p>
 
-						<a href="https://github.com/JPadilla16" target="_blank"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
-						<a href="#"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a>
-						<a href="#"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i>
-						</a>
+							<p>Pennant baltimore chop mitt run batted in cellar grand slam rally away choke up. Range bandbox hall of fame no-hitter save slugging rip designated hitter. Pinch hit rotation starter mound catcher right field strikeout. Strike zone assist interleague inning pull, strikeout inside bush league steal. Foul pole grounder team ball base baseball card corner breaking ball national pastime. Base on balls moneyball arm basehit take balk hitter base on balls.
+							</p>
 					</div>
 				</div>
 			</div>
 		</div>
-	</footer>
+
+	<!-- insert footer -->
+	<?php require_once(dirname(__DIR__)."/php/partials/footer.php");?>
+
 </body>
 </html>
