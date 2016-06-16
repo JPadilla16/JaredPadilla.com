@@ -26,9 +26,9 @@ require_once(dirname(__DIR__)."/php/partials/headutils.php");
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						<ul class="nav navbar-nav">
-							<li><a href="http://jaredpadilla.com/public_html"><i class="fa fa-home"></i></a></li>
-							<li class="active"><a href="http://jaredpadilla.com/public_html/portfolio">Portfolio<span class="sr-only">(current)</span></a></li>
-							<li><a href="http://jaredpadilla.com/public_html/contact">Contact</a></li>
+							<li><a href="http://jaredpadilla.com"><i class="fa fa-home"></i></a></li>
+							<li class="active"><a href="http://jaredpadilla.com/portfolio">Portfolio<span class="sr-only">(current)</span></a></li>
+							<li><a href="http://jaredpadilla.com/contact">Contact</a></li>
 						</ul>
 						<ul class="nav navbar-nav navbar-right hidden-xs">
 							<li><a href="https://github.com/JPadilla16" target="_blank"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a></li>
