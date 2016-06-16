@@ -28,10 +28,10 @@ require_once("php/partials/headutils.php");
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						<ul class="nav navbar-nav">
 							<li><a
-									href="http://jaredpadilla.com/public_html/portfolio/index.php">Portfolio</a>
+									href="http://jaredpadilla.com/public_html/portfolio">Portfolio</a>
 							</li>
 							<li><a
-									href="http://jaredpadilla.com/public_html/contact/index.php">Contact</a>
+									href="http://jaredpadilla.com/public_html/contact">Contact</a>
 							</li>
 						</ul>
 						<ul class="nav navbar-nav navbar-right hidden-xs">
