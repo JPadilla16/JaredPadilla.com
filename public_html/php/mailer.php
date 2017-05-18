@@ -10,7 +10,7 @@ require_once(dirname(__DIR__,2) . "/vendor/autoload.php");
 require_once("mailer-config.php");
 
 // verify user's reCAPTCHA input
-$recaptcha = new \ReCaptcha\ReCaptcha($secret);
+$recaptcha = new \ReCaptcha\ReCaptcha($secret, new \ReCaptcha\RequestMethod\SocketPost());
 $resp = $recaptcha->verify($_POST["g-recaptcha-response"], $_SERVER["REMOTE_ADDR"]);
 
 try {
